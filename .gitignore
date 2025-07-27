@@ -1,0 +1,6 @@
+*.lst
+*.obj
+*.pck
+Graphics/*.s
+Test.col
+Test.symbols.txt
